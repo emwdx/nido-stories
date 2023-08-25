@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nido-stories/static/css/main.88404e20.css",
-    "main.js": "/nido-stories/static/js/main.f1ea4018.js",
+    "main.js": "/nido-stories/static/js/main.580bce1a.js",
     "static/js/787.3d64618b.chunk.js": "/nido-stories/static/js/787.3d64618b.chunk.js",
     "index.html": "/nido-stories/index.html",
     "main.88404e20.css.map": "/nido-stories/static/css/main.88404e20.css.map",
-    "main.f1ea4018.js.map": "/nido-stories/static/js/main.f1ea4018.js.map",
+    "main.580bce1a.js.map": "/nido-stories/static/js/main.580bce1a.js.map",
     "787.3d64618b.chunk.js.map": "/nido-stories/static/js/787.3d64618b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88404e20.css",
-    "static/js/main.f1ea4018.js"
+    "static/js/main.580bce1a.js"
   ]
 }
